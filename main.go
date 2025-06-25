@@ -3,11 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/gorilla/mux"
+	"github.com/qiushi1511/hellolib"
 )
 
 func main() {
-	r := mux.NewRouter()
-
-	fmt.Println("Router initialized:", r)
+	fmt.Println(hellolib.Greet("Qiushi"))
 }
