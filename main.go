@@ -8,4 +8,5 @@ import (
 
 func main() {
 	fmt.Println(hellolib.Greet("Qiushi"))
+	fmt.Println(hellolib.WarmGreet("Qiushi"))
 }
