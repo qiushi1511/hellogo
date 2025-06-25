@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/qiushi1511/hellolib"
+	"github.com/qiushi1511/hellolib/greet"
 )
 
 func main() {
-	fmt.Println(hellolib.Greet("Qiushi"))
-	fmt.Println(hellolib.WarmGreet("Qiushi"))
+	fmt.Println(greet.Greet("Qiushi"))
+	fmt.Println(greet.WarmGreet("Qiushi"))
 }

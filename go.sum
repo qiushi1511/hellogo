@@ -1,2 +1,2 @@
-github.com/qiushi1511/hellolib v1.1.0 h1:JBhcXiWYtnpu121IA8bXOZsbHyUlIpBAc9wwnPMRlK0=
-github.com/qiushi1511/hellolib v1.1.0/go.mod h1:X2dE8NhbP4tqgywVnM15lJYJonkQckICVuOUMPifa94=
+github.com/qiushi1511/hellolib/greet v1.0.0 h1:Xk9NRhdXsyq1fieQLg2a89tW7DRsROv6qIsTjj0k/bA=
+github.com/qiushi1511/hellolib/greet v1.0.0/go.mod h1:ydUN15LevYiTkOSG0ivGMBQsQ5h9w46rU/PKzBPs71E=
